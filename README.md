@@ -23,7 +23,7 @@
 <h2> Game Design Projects:</h2>
 
 - <b>C#</b>
-  - [Super Mario Project (Unity)](link_here)
+  - [Super Mario Project (Unity)](https://github.com/ktate001/Super-Mario-Project)
   - [Tanks Project (Unity)](link_here)
 
 <h2>Introduction to AI Projects:</h2>
